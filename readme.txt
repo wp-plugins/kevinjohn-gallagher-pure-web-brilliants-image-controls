@@ -1,4 +1,4 @@
-=== Kevinjohn Gallagher: Pure Web Brilliant's Image Controls ===
+=== Pure Web Brilliant's Image Controls ===
 	Contributors:			kevinjohngallagher, purewebbrilliant 
 	Donate link:			http://kevinjohngallagher.com/
 	Tags: 					kevinjohn gallagher, pure web brilliant, framework, cms, simple, multisite, images, upload, media
@@ -10,6 +10,10 @@
 
 Framework extension that allows the use of Image selector. 
 
+
+== Description ==
+
+Extends the functionality of the parent framework, allowing users to upload and select images from the default WordPress media library.
 
 
 == Installation ==
