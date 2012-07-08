@@ -1,20 +1,24 @@
-=== Pure Web Brilliant's Meta Controls ===
+=== Pure Web Brilliant's Image Controls ===
 	Contributors:			kevinjohngallagher, purewebbrilliant 
 	Donate link:			http://kevinjohngallagher.com/
-	Tags: 					kevinjohn gallagher, pure web brilliant, framework, cms, simple, header, meta, tags, seo, mobile
+	Tags: 					kevinjohn gallagher, pure web brilliant, framework, cms, simple, multisite, images, upload, media
 	Requires at least:		3.0
 	Tested up to: 			3.4
 	Stable tag: 			2.1
 
 
 
-Removes the need for meta tags to be hardcoded into themes. 
+Framework extension that allows the use of Image selector. 
 
+
+== Description ==
+
+Extends the functionality of the parent framework, allowing users to upload and select images from the default WordPress media library.
 
 
 == Installation ==
 
-1. Upload `kevinjohn_gallagher__meta_controls.php` to the `/wp-content/plugins/` directory
+1. Upload `kevinjohn_gallagher__image_controls.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
@@ -30,10 +34,9 @@ You can find that at: http://wordpress.org/extend/plugins/kevinjohn-gallagher-pu
 
 == Changelog ==
 
-
 = 2.1 =
-* Updated security check
 
+Added new security detection
 
 = 2.0 =
 * Removal of non-GPLv3 compatible functions.
