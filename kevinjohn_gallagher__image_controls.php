@@ -2,16 +2,16 @@
 /*
 	Plugin Name: 			Kevinjohn Gallagher: Pure Web Brilliant's Image Controls
 	Description: 			Framework extension that allows the use of Image selector. 
-	Version: 				0.1
+	Version: 				2.1
 	Author: 				Kevinjohn Gallagher
 	Author URI: 			http://kevinjohngallagher.com/
 	
 	Contributors:			kevinjohngallagher, purewebbrilliant 
 	Donate link:			http://kevinjohngallagher.com/
-	Tags: 					kevinjohn gallagher, pure web brilliant, framework, cms, simple, multisite, images, upload, media
+	Tags: 					kevinjohn gallagher, pure web brilliant, framework, cms, simple, multisite, images 
 	Requires at least:		3.0
 	Tested up to: 			3.4
-	Stable tag: 			1.0
+	Stable tag: 			2.1
 */
 /**
  *
@@ -38,7 +38,7 @@
  *
  *
  *	@package				Pure Web Brilliant
- *	@version 				2.0.1
+ *	@version 				2.1
  *	@author 				Kevinjohn Gallagher <wordpress@kevinjohngallagher.com>
  *	@copyright 				Copyright (c) 2012, Kevinjohn Gallagher
  *	@link 					http://kevinjohngallagher.com
@@ -49,8 +49,17 @@
 
 
 
+ 	if ( ! defined( 'ABSPATH' ) )
+ 	{ 
+ 			die( 'Direct access not permitted.' ); 
+ 	}
+ 	
+ 	
+ 	
 
-	define( '_KEVINJOHN_GALLAGHER___image_controls', '2.0' );
+
+
+	define( '_KEVINJOHN_GALLAGHER___image_controls', '2.1' );
 
 
 
