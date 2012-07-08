@@ -1,0 +1,70 @@
+
+		.replace-wp-image-style
+		{
+			display:			block;
+			border:				0px solid red;
+			width:				500px;
+			float:				none;
+			clear:				both;
+		}
+
+		.replace-wp-image-style img
+		{
+			max-width:			100%; 
+			margin:				1em 0em; 
+			padding:			1em; 
+			border:				2px dashed #999;
+			height: 			auto;
+		}
+		
+		.replace-wp-image-style img.no-style
+		{
+			max-width:			100%; 
+			margin:				0px; 
+			padding:			0px; 
+			border:				none;
+		}
+
+
+		a.remove-wp-image-style
+		{
+		
+		}
+		
+		
+		
+		
+		.remove-wp-image-span
+		{
+			display:			none;
+		}
+
+
+		#media-items tr.post_title,
+		#media-items tr.image_alt,
+		#media-items tr.post_content,
+		#media-items tr.post_excerpt,
+		#media-items tr.url,
+		#media-items tr.align,
+		#media-items tr.image-size,
+		#media-upload .del-link,
+		#media-upload .howto,
+		#media-upload .A1B1 input,
+		#media-upload .A1B1 .button
+		#media-upload .A1B1 .imgedit-wait-spin
+		{
+				display:	none;
+		}
+
+
+		#media-upload p.ml-submit,
+		p.ml-submit
+		{
+				padding:	0px;
+				margin:		0px;
+				height:		1px;
+				width:		1px;
+				visibility: hidden;
+		}		
+		
+		
